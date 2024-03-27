@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "wallpapers for zoonomaly_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=2fdd9fdf6d2c4cfa9a081774c2c98590-5263755-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=fbbc7286ac4560522e7bd8c81dff3db5-4079727-images-thumbs&n=13e"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=bbff51790e2931d4e831eb89e7f264fa-5256718-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=aca78a8cc330fc45d74e2a138cfe72ee2afcfed6-9026072-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=02b310a8b926ac8139477631d0a53bd9b7a8c4ca-4234813-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=8141fd33c94760a94d887f62d41baac1-4254939-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=09d59765934f0f8efaf0dfc26636cbd00b88d51c-9152303-images-thumbs&n=13
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=250264a6ca0df6f91be43cdcbcda21dbf5603afa-8225379-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_1",
+          "path": "https://avatars.mds.yandex.net/i?id=aadc3e01823c7b4e2e0d4802c9a5897110961de9-5239435-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "wallpapers for zoonomaly_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=efb72f57877288f46a0652adf33efa378c3cde76-5911250-images-thumbs&n=13e",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=ed27912d7959f084388a43851aff15d91daf001f-10814821-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1be0f57f8ee5c0be64c69e52903e1563afe9ad1d-12626686-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=d29d9be31a10c600a5724ff13e31874a15aac615-6209271-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1bd8f3b52bd29099dadbd0bb26c64f668ba77b4c-10311215-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=58ff10d21dc60fda99354a5919dcb964c0e8ac1f-8427500-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1be0f57f8ee5c0be64c69e52903e1563afe9ad1d-12626686-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=a032769e207327ca9463342f10ed824b7a419a3f-10586727-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_2",
+          "path": "https://avatars.mds.yandex.net/i?id=b8a578a8fdfa665786f127c335202d2ac5bbe2c7-5235774-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "wallpapers for zoonomaly_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=7ccd6b5b49ca81080960aab5d5e176a9c07b4673-7755864-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=2c0ec52368ee4c802e645059bc1bd2ab27ecc069-4476214-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomalye_3",
+          "path": "https://avatars.mds.yandex.net/i?id=d8cf97e27d27071d3c655ef0005c3d0e64e2c2b5-10804497-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=96f97c81451f650d0a20ab93d787a09e527fb7bc-12208630-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=a03c9c843984596f2bca7c70d8481163fe46e2f9-6945470-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=b8f9412e8d4e454930e30d8fc4bd4000323ded61-8497447-images-thumbs&n=13e"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=c1a3407c8ac2738db3f63b0ba5d8a98376dc18b5-10147998-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=8e6d7f788473f99be2845e7764879fa51a1e4752-9755596-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "wallpapers for zoonomaly_3",
+          "path": "https://avatars.mds.yandex.net/i?id=322e6e37842b00b50834ea9bcf68370ed978b957-10844270-images-thumbs&n=13"
         }
       ]
     }
